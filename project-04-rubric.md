@@ -25,12 +25,12 @@ Acceptable performance for these standards is based on how well you've performed
 | Model: Perform Logistic Regression | | | | n/a |
 | Evaluate: Logistic Regression | | | | *Bonus*: Countvectorizer, Regularization Parameters  |
 | Present: Write a report for your audience addressing findings & recommendations | | | | n\a |
-| *Bonus! Present: Create blog post summary* | | | | n\a |
+| Present: Create blog post summary | | | | n\a |
 
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **15**  points on this project. Your score is: **#**
+Based on the requirements, you can earn a maximum of  **21**  points on this project. Your score is: **#**
 
 - Remember, your total score is helpful as a gauge of how well you met the project requirements, but use the individual standards and instructor feedback to help iterate and improve on your projects!
 
